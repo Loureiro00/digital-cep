@@ -1,0 +1,22 @@
+{
+    "name": "pedroloureiro/digital-cep",
+    "description": "Busca Cep online",
+    "type": "library",
+    "autoload": {
+        "psr-0": {
+            "Search":"src/"
+        },
+        "psr-4": {
+            "App\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "Loureiro00",
+        "email": "pedrohstloureiro@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.2.0"
+    }
+   
+}
