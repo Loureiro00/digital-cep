@@ -2,7 +2,7 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use \App\DigitalCep\Search;
+use \pedroloureiro\digitalCep\Search;
 
 $busca = new Search;
 

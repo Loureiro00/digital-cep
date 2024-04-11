@@ -1,6 +1,6 @@
 <?php
 
-namespace App\DigitalCep;
+namespace pedroloureiro\digitalCep;
 
 class Search{ // buscar
     private $url = "https://viacep.com.br/ws/";

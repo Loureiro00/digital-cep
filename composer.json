@@ -7,7 +7,7 @@
             "Search":"src/"
         },
         "psr-4": {
-            "App\\DigitalCep\\": "src/"
+            "pedroloureiro\\digitalCep\\": "src/"
         }
     },
     "authors": [{
